@@ -1,0 +1,179 @@
+header {
+    padding: 154px 0 100px;
+    min-height: 530px;
+}
+
+section {
+    padding: 40px 0;
+}
+
+.main-nav {
+    background: rgba(0, 0, 0, 0.295);
+    transition: .5s;
+}
+
+.scroll-nav {
+    background: #343a40ed;
+    padding: 15px;
+    transition: .5s;
+}
+
+.button {
+    font-size: 19pt;
+}
+
+.fitur {
+    font-size: 85pt;
+    margin: 20px 0;
+    color: #474751;
+}
+
+.garis {
+    border-bottom: 2px solid rgb(252, 201, 35);
+    text-align: center;
+    font-size: 20pt;
+    padding: 10px 5px;
+    width: 20%;
+    margin: auto;
+    letter-spacing: 2px;
+    margin-bottom: 60px;
+}
+
+.garis2 {
+    width: 30%;
+}
+
+.garis3 {
+    width: 18%;
+}
+
+.garis:hover {
+    border-bottom: 2px solid rgb(252, 86, 35);
+}
+
+/* fitur */
+.headline {
+    font-family: verdana;
+    margin-bottom: 20px;
+}
+
+.foot-fitur {
+    margin-top: -20px;
+}
+
+.isi-fitur {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1.5px;
+    font-family: roboto 'sans-serif';
+    line-height: 30px;
+}
+
+.isi-fitur {
+    font-size: 11pt;
+}
+
+.row2 {
+    margin: 70px 0;
+}
+
+.konten2 {
+    width: 70%;
+}
+
+.gambar-fitur {
+    border-radius: 10px;
+}
+
+/* about us */
+.team {
+    width: 90%;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+.gbr {
+    width: 95%;
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 10px 10px 0 0;
+    overflow: hidden;
+
+}
+
+.team:hover {
+    -webkit-transition: .8s ease;
+    transition: .8s ease;
+    box-shadow: 5px 5px 0 rgb(199, 160, 49);
+}
+
+.img {
+    -webkit-transition: 0.4s ease;
+    transition: 0.4s ease;
+    width: 100%;
+}
+
+.box {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.box:hover .img {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.teks {
+    margin: 10px 0;
+    margin-top: 15px;
+}
+
+.job-desk {
+    text-transform: uppercase;
+    font-size: 16pt;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.teks p {
+    font-style: italic;
+}
+
+/* contact */
+.row3 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#contact {
+    background: #f8f9fa;
+}
+
+/* footer */
+.foot-link {
+    color: white;
+}
+
+.foot-link:hover {
+    color: rgb(226, 226, 226);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.warna-icon {
+    color: rgb(204, 204, 204);
+}
+
+.bg-footer {
+    background: #141a30fa;
+}
+
+@media (min-width: 992px) {
+    header {
+        padding: 156px 0 100px;
+    }
+}

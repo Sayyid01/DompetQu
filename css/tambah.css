@@ -1,0 +1,24 @@
+.konten_isi {
+    margin: 20px;
+}
+
+td {
+    text-align: left;
+}
+
+@media screen and (max-width: 530px) {
+    td {
+        font-size: 3vw;
+    }
+
+    h2.head {
+        font-size: 7vw;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .form-control {
+        height: 8vw;
+        font-size: 3vw;
+    }
+}

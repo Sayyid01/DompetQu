@@ -1,0 +1,182 @@
+.ikon {
+    font-size: 50pt;
+    color: #e9eaeb;
+}
+
+.ket {
+    color: #e9eaeb;
+}
+
+.head {
+    font-size: 14pt;
+}
+
+.total {
+    font-size: 17pt;
+}
+
+.tulisan {
+    margin-left: -20px;
+}
+
+.keluar {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 20px;
+    border: 1px solid #dedbdb;
+}
+
+.judul {
+    margin-bottom: -15px;
+}
+
+.judul-chart {
+    color: #4b4f58;
+}
+
+.bagi {
+    padding: 20px;
+    background: #f8f9fa;
+}
+
+.chart {
+    margin: 20px 0;
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 5px;
+    background-color: #65c763;
+    overflow: hidden;
+    width: 92%;
+    height: 0;
+    transition: .4s ease;
+}
+
+.jarak:hover .overlay {
+    height: 100%;
+}
+
+.tambah {
+    font-size: 60pt;
+    color: #e9eaeb;
+}
+
+.tulisan {
+    font-size: 21pt;
+    color: #e9eaeb;
+    margin-bottom: -1px;
+}
+
+.ikon2 {
+    font-size: 60pt;
+    color: #e9eaeb;
+}
+
+.rekening {
+    width: 96.5%;
+    height: 45vh;
+    margin: auto;
+    margin-top: 30px;
+    background: rgba(251, 251, 251, 0.301);
+    border: .1px solid rgb(235, 234, 234);
+}
+
+.konten-rekening {
+    padding: 10px;
+    margin: 15px;
+}
+
+.konten-rekening {
+    font-family: inherit;
+    font-size: 14pt;
+    height: 37vh;
+}
+
+.konten-rekening p {
+    font-family: nyala;
+    font-size: 20pt;
+    color: #3b3b3b;
+}
+
+.konten-rekening h3 {
+    font-family: cursive;
+    color: #3b3b3b;
+    margin-top: -10px;
+}
+
+.add-rekening {
+    width: 97%;
+    padding: 10px;
+    text-align: left;
+    font-family: cursive;
+    font-size: 11pt;
+    height: 45px;
+}
+
+.btn-prev {
+    background: #3498db;
+    color: white;
+    margin: 10px 0;
+}
+
+.btn-prev:hover {
+    background: #2980b9;
+}
+
+.btn-next {
+    background: #1abc9c;
+    color: white;
+}
+
+.btn-next:hover {
+    background: #16a085;
+}
+
+.icon-plus {
+    font-size: 11pt;
+}
+
+.history span,
+.refresh span {
+    font-size: 12pt;
+    color: #575757;
+}
+
+.history i,
+.refresh i {
+    font-size: 11pt;
+    color: #575757;
+}
+
+.history a,
+.refresh a {
+    text-decoration: none;
+}
+
+.history a:hover,
+.refresh a:hover {
+    font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+    .jarak {
+        margin: 5px;
+    }
+
+    .ikon {
+        font-size: 45pt;
+    }
+
+    .head {
+        font-size: 12pt;
+    }
+
+    .total {
+        font-size: 14pt;
+    }
+}

@@ -1,0 +1,59 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.background{
+	background-image: url('img/header1.jpg');
+	background-position: center;
+	background-size: cover;
+	height: 70%;
+
+}
+.content{
+	background-color: rgba(0,0,0,0.7);
+	position: absolute;
+	top: 0;
+	height:90%;
+	width: 100%;
+	border:none;
+}
+.isi{
+	width: auto;
+	margin-top: 135px; 
+}
+.isi h2{
+	color: white;
+	letter-spacing: 5px;
+	text-align: center;
+	text-shadow: 1px 1px 2px black;
+	font-size: 55px;
+}
+.isi h4{
+	color: white;
+	letter-spacing: 2px;
+	text-align: center;
+	text-shadow: 1px 1px 2px black;
+	font-size: 45px;
+}
+.submit{
+	color: #fff;
+	text-shadow: 1px 1px 2px black;
+	font-weight: bolder;
+	text-align: center;
+	padding: 10px;
+	font-size:30px;
+	background-color :#fd5f00;
+	border: none;
+	cursor: pointer;
+}
+
+.submit:hover{
+	color: #fff;
+	background-color :#f89d13 ;
+	
+}
+.kotak{
+	width: 75%;
+	margin: auto;
+	margin-top: -80px;
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "kode": "TRF0001",
+        "jumlah": "150.000",
+        "aksi": "keluar",
+        "tanggal": "2019-03-22",
+        "username": "azmirf"
+    },
+    {
+        "id": "2",
+        "kode": "TRF0002",
+        "jumlah": "50.000",
+        "aksi": "keluar",
+        "tanggal": "2019-03-22",
+        "username": "azmirf"
+    },
+    {
+        "id": "3",
+        "kode": "TRF0003",
+        "jumlah": "250.000",
+        "aksi": "keluar",
+        "tanggal": "2019-03-27",
+        "username": "dira"
+    },
+    {
+        "id": "4",
+        "kode": "TRF0004",
+        "jumlah": "50.000",
+        "aksi": "keluar",
+        "tanggal": "2019-03-28",
+        "username": "azmirf"
+    },
+    {
+        "id": "5",
+        "kode": "TRF0005",
+        "jumlah": "200.000",
+        "aksi": "keluar",
+        "tanggal": "2019-04-01",
+        "username": "azmirf"
+    },
+    {
+        "id": "13",
+        "kode": "TRF0006",
+        "jumlah": "200.000",
+        "aksi": "keluar",
+        "tanggal": "2019-04-24",
+        "username": "azmirf"
+    },
+    {
+        "id": "14",
+        "kode": "TRF0007",
+        "jumlah": "200.000",
+        "aksi": "keluar",
+        "tanggal": "2019-04-24",
+        "username": "azmirf"
+    }
+]

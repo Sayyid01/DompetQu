@@ -1,0 +1,56 @@
+body {
+    background: #dadde4;
+}
+
+.area {
+    margin: auto;
+    margin-top: 10vh;
+}
+
+.area2 {
+    margin: auto;
+    margin-top: 7vh;
+}
+
+.box {
+    border-radius: 20px;
+    background: #fff;
+    margin-top: 3vh;
+    box-shadow: 3px 3px 3px 2px rgba(107, 107, 107, 0.712);
+}
+
+.text-foot {
+    margin-top: -10px;
+    font-family: cursive;
+}
+
+.form-control:focus {
+    border-color: #ced4da;
+    box-shadow: none;
+}
+
+label,
+#remember {
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 8vw;
+    }
+
+    h2 {
+        font-size: 6.5vw;
+    }
+
+    p {
+        font-size: 4vw;
+    }
+
+    label {
+        font-size: 4.5vw;
+        margin-top: -10px;
+    }
+
+}
