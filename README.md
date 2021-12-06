@@ -1,7 +1,7 @@
 # DompetQu
 Aplikasi manajemen keuangan berbasis web.
 
-Created by : 
-  -Sayyid
-  -M Azmi Rizkifar
+Created by : <br>
+  -Sayyid <br>
+  -M Azmi Rizkifar <br>
   -Dina
